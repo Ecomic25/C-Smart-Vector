@@ -18,4 +18,4 @@ void intvec_destroy(IntVector* v);
 int intvec_get(IntVector* v, int index);
 int intvec_get_size(IntVector* v);
 
-#endif // INTVEC_H
+#endif
