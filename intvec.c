@@ -1,4 +1,4 @@
-#include "intvec.h" // Inclui nosso próprio "cardápio"
+#include "intvec.h"
 
 IntVector* intvec_create(int initial_capacity) {
     IntVector *v = (IntVector*) malloc(sizeof(IntVector));
